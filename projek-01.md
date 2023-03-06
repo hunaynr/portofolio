@@ -1,4 +1,4 @@
-# Sistem Informasi Jurnal Magang Berbasis Web
+# <p align="justify" style="margin-bottom: 0px;">Sistem Informasi Jurnal Magang Berbasis Web</p>
 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Projek Praktek Kerja Lapangan Sistem Informasi Jurnal Magang Berbasis Web merupakan sebuah aplikasi yang didesain untuk memudahkan antara peserta magang, admin instansi terkait dan super admin dalam melakukan pencatatan kegiatan sehari-hari dalam bentuk digital. Sistem ini akan merekam kegiatan yang ditambahkan oleh peserta magang melalui logbook atau jurnal dan memberikan akses kepada admin instansi yang bersesuain dengan peserta tersebut untuk memantau progres setiap harinya.
 
@@ -53,7 +53,7 @@
 7. Tabel Kegiatan
 
    ![img_9](img/img_9.png)<br>
-   <p align="justify">Table kegiatan merupakan table yang digunakan untuk menampung data kegiatan yang dibuat oleh user dan dikirim kepada admin instansi. Atribut dalam tabel kegiatan diantaranya id_kegiatan yang merupakan primary key dalam tabel kegiatan ini, id_user foreign key dari tabel user, tanggal_kegiatan, deskripsi_kegiatan, foto, dan tipe_foto. Relasi tersebut digunakan untuk mengambii data yang berasal dari table lain dengan cara menambahkan attribute foreign key dalam table utama.</p><br><br>
+   <p align="justify">Table kegiatan merupakan table yang digunakan untuk menampung data kegiatan yang dibuat oleh user dan dikirim kepada admin instansi. Atribut dalam tabel kegiatan diantaranya id_kegiatan yang merupakan primary key dalam tabel kegiatan ini, id_user foreign key dari tabel user, tanggal_kegiatan, deskripsi_kegiatan, foto, dan tipe_foto. Relasi tersebut digunakan untuk mengambii data yang berasal dari table lain dengan cara menambahkan attribute foreign key dalam table utama.</p><br>
 
 ## User Interface
 
@@ -161,7 +161,7 @@
 5. Halaman User
 
    ![img_33](img/img_33.png)<br>
-   <p align="justify">Halaman ini menampilkan data user yang bersangkutan meliputi email, nip, nama, alamat, tanggal registrasi, foto, level, status dan aksi. Pada kolom aksi user dapat melakukan update data menggunakan button ubah dan memeriksa rincian data melalui button detil</p><br><br>
+   <p align="justify">Halaman ini menampilkan data user yang bersangkutan meliputi email, nip, nama, alamat, tanggal registrasi, foto, level, status dan aksi. Pada kolom aksi user dapat melakukan update data menggunakan button ubah dan memeriksa rincian data melalui button detil</p><br>
 
 ## Kesimpulan
 
