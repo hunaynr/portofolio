@@ -1,4 +1,4 @@
-# <p align="justify" style="margin-bottom: 0px;">Sistem Informasi Jurnal Magang Berbasis Web</p>
+# Sistem Informasi Jurnal Magang Berbasis Web
 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Projek Praktek Kerja Lapangan Sistem Informasi Jurnal Magang Berbasis Web merupakan sebuah aplikasi yang didesain untuk memudahkan antara peserta magang, admin instansi terkait dan super admin dalam melakukan pencatatan kegiatan sehari-hari dalam bentuk digital. Sistem ini akan merekam kegiatan yang ditambahkan oleh peserta magang melalui logbook atau jurnal dan memberikan akses kepada admin instansi yang bersesuain dengan peserta tersebut untuk memantau progres setiap harinya.
 
@@ -161,7 +161,7 @@
 5. Halaman User
 
    ![img_33](img/img_33.png)<br>
-   <p align="justify">Halaman ini menampilkan data user yang bersangkutan meliputi email, nip, nama, alamat, tanggal registrasi, foto, level, status dan aksi. Pada kolom aksi user dapat melakukan update data menggunakan button ubah dan memeriksa rincian data melalui button detil</p><br>
+   <p align="justify">Halaman ini menampilkan data user yang bersangkutan meliputi email, nip, nama, alamat, tanggal registrasi, foto, level, status dan aksi. Pada kolom aksi user dapat melakukan update data menggunakan button ubah dan memeriksa rincian data melalui button detil</p>
 
 ## Kesimpulan
 
